@@ -1,0 +1,17 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="scratch.js" />
+        <option value="scratch.md" />
+        <option value="scratch.coffee" />
+        <option value="hoge.sql" />
+        <option value="hoge.txt" />
+        <option value="test.php" />
+        <option value="scratch.css" />
+      </list>
+    </option>
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</application>

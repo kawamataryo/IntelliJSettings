@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddc98342-23ca-4c23-8449-7ea81a68888e" name="patientDB" url="http://133.130.125.225">
+        <fileTransfer host="133.130.125.225" port="10022" privateKey="$USER_HOME$/.ssh/conoha_patient_db/id_rsa" rootFolder="/home/acuweb" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="10022" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
