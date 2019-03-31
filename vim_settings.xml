@@ -3,176 +3,29 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/TopConcept.vue" timestamp="1549235905407">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/sample_app/Gemfile" timestamp="1550299974333">
-        <mark key="[" line="32" column="53" />
-        <mark key="]" line="33" column="18" />
-        <mark key="^" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/models/user.rb" timestamp="1550281033278">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/package.json" timestamp="1549864209865">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="32" />
-        <mark key="." line="37" column="24" />
-        <mark key="^" line="37" column="24" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/stylus/style.styl" timestamp="1553376738299">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="11" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="11" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/first-app/index.html" timestamp="1553482791248">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="25" />
-        <mark key="^" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/controllers/application_controller.rb" timestamp="1550240782973">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/HeaderMenu.vue" timestamp="1553828104452">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/sample_app/config/environments/development.rb" timestamp="1550299910882">
-        <mark key="[" line="60" column="63" />
-        <mark key="]" line="61" column="46" />
-        <mark key="^" line="61" column="46" />
-        <mark key="." line="61" column="46" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/views/downloads/index.html.slim" timestamp="1550496579684">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/controllers/home_controller_spec.rb" timestamp="1550976469754">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="6" column="46" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="46" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/views/admin/users/_form.html.slim" timestamp="1550384902998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/index.js" timestamp="1553217107442">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-      </file>
       <file name="/" timestamp="1553217171261">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/pages/blog.vue" timestamp="1549625535222">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="42" />
-        <mark key="^" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/first-app/demo.html" timestamp="1553482781706">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="7" column="7" />
-        <mark key="^" line="7" column="7" />
-        <mark key="." line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/.eslintrc.js" timestamp="1553545280543">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="37" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="9" column="13" />
-      </file>
-      <file name="$USER_HOME$/untitled1/Gemfile" timestamp="1549969869468">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/user.ts" timestamp="1553477701713">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/vue_training/sample-form/README.md" timestamp="1549088448440">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="4" column="51" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/controllers/tsks_controller_spec.rb" timestamp="1551135083273">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/views/session/new.html.slim" timestamp="1550393828567">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/production/naokihattori/public/wp-content/themes/acu-theme/functions.php" timestamp="1548533712873">
-        <mark key="[" line="744" column="73" />
-        <mark key="]" line="744" column="73" />
-        <mark key="^" line="744" column="73" />
-        <mark key="." line="744" column="73" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/controllers/items_controller.rb" timestamp="1550245451885">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/config/initializers/locale.rb" timestamp="1550371703183">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-      </file>
-      <file name="$USER_HOME$/sandbox/typescript/README.md" timestamp="1552260157181">
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/pages/medical-info.vue" timestamp="1549807438832">
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/sandbox/elm/helloWorld/src/Main.elm" timestamp="1552924850303">
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/tsconfig.json" timestamp="1553478744840">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="15" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/db/migrate/20190217053210_create_users.rb" timestamp="1550381618143">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/AppFooter.vue" timestamp="1553907872804">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/medical-info.vue" timestamp="1553485808268">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="64" column="10" />
+        <mark key="." line="77" column="3" />
+        <mark key="^" line="77" column="3" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/nuxt.config.ts" timestamp="1553931544422">
         <mark key="'" line="31" column="0" />
@@ -184,125 +37,26 @@
       <file name="/GraphQL.result.json" timestamp="1553636022945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/README.md" timestamp="1552205911499">
-        <mark key="[" line="37" column="2" />
-        <mark key="]" line="37" column="29" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/views/admin/users/new.html.slim" timestamp="1550384819314">
+      <file name="$USER_HOME$/sandbox/webpack/demo/src/demo.pug" timestamp="1553479690171">
+        <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="3" column="52" />
-        <mark key="^" line="3" column="52" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/spec/requests/todos_spec.rb" timestamp="1550241135624">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="44" column="6" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/style.styl" timestamp="1553493090570">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/access.vue" timestamp="1553463283374">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="19" />
-        <mark key="^" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/assets/css/global.css" timestamp="1553199767359">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/typescript/User.ts" timestamp="1553201566667">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/Job_site.rb" timestamp="1550462278793">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="25" column="7" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/config/routes.rb" timestamp="1550471972568">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/production/naokihattori/public/wp-content/themes/acu-theme/page-fees.php" timestamp="1548977468063">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="281" column="76" />
-        <mark key="^" line="93" column="76" />
-        <mark key="." line="281" column="76" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/HomeCarousel.vue" timestamp="1549497052462">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/spec/factories/users.rb" timestamp="1550280567398">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/hash.rb" timestamp="1550297236149">
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="34" />
-        <mark key="^" line="2" column="33" />
-        <mark key="." line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/controllers/concerns/response.rb" timestamp="1550240460111">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-      </file>
-      <file name="$USER_HOME$/production/shimazaki/public/wp-content/themes/acu-theme-birth/src/style/_header.styl" timestamp="1549370522913">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/.gitignore" timestamp="1550875380843">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="5" />
-        <mark key="^" line="29" column="5" />
-        <mark key="." line="29" column="5" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/spec/factories/todos.rb" timestamp="1550220916274">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="2" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/first-app/main.js" timestamp="1553482663549">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/index.ts" timestamp="1553201623047">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/Calendar.vue" timestamp="1549497555800">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="12" column="12" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/contact.vue" timestamp="1553463346037">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="3" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/layouts/default.vue" timestamp="1553462488827">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" timestamp="1554010606147">
         <mark key="'" line="9" column="0" />
@@ -311,12 +65,6 @@
         <mark key="." line="31" column="17" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/config/application.rb" timestamp="1550954523864">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-      </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" timestamp="1554010693837">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="18" column="0" />
@@ -324,137 +72,26 @@
         <mark key="^" line="21" column="549" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/rails_training/untitled2/Gemfile" timestamp="1549972133343">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/sandbox/webpack/demo/typeScriptDeep.md" timestamp="1553461475575">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
       </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/postcss.config.js" timestamp="1553464947575">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" timestamp="1553464586812">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/spec/factories/items.rb" timestamp="1550220932105">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="6" column="2" />
-        <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/TopMainSlider.vue" timestamp="1553374184653">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/vue_training/sample-form/src/components/MyLabel.vue" timestamp="1549128724138">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="21" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/plugins/Firebase.js" timestamp="1553911814727">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/layouts/demo.vue" timestamp="1550463591690">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/blog/_id.vue" timestamp="1553463378868">
-        <mark key="[" line="36" column="10" />
-        <mark key="]" line="36" column="3" />
-        <mark key="^" line="36" column="3" />
-        <mark key="." line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/hello-container.js" timestamp="1551268065687">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/functions/index.js" timestamp="1549136660793">
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="26" />
-        <mark key="." line="27" column="28" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/nuxt.config.js" timestamp="1552082618262">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="33" column="8" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/rgb.rb" timestamp="1550066389264">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/models/todo.rb" timestamp="1550220762267">
-        <mark key="[" line="5" column="43" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/features/projects_spec.rb" timestamp="1551134057250">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/spec/models/patient_spec.rb" timestamp="1551786692057">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="20" />
-        <mark key="." line="20" column="20" />
-        <mark key="^" line="20" column="20" />
-      </file>
-      <file name="$USER_HOME$/sandbox/typescript/tsconfig.json" timestamp="1551788622447">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/models/user.rb" timestamp="1550395552503">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="6" column="16" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/parkingInformation.vue" timestamp="1551697771833">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/App.vue" timestamp="1553633930067">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="5" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/assets/stylesheets/application.scss" timestamp="1550371359079">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/spec/job_site_spec.rb" timestamp="1550464640499">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/DeepFreezable.rb" timestamp="1550276138088">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.ts" timestamp="1553492149606">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="/Ruby Console" timestamp="1552207905333">
         <mark key="[" line="0" column="0" />
@@ -462,35 +99,12 @@
       <file name="/patient_db_production.patients [patint-db]" timestamp="1551700189401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/index.html" timestamp="1553203397822">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="24" />
-        <mark key="." line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/views/downloads/year_sales.csv.ruby" timestamp="1552205811483">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/controllers/application_controller.rb" timestamp="1550397111590">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/effects.rb" timestamp="1550291395581">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="60" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/spec/models/history_spec.rb" timestamp="1551787617971">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.pug" timestamp="1553489370895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/pages/index.vue" timestamp="1553750074187">
         <mark key="'" line="27" column="0" />
@@ -499,32 +113,14 @@
         <mark key="^" line="41" column="63" />
         <mark key="." line="41" column="63" />
       </file>
-      <file name="$USER_HOME$/vue_training/sample-form/src/components/MyBtn.vue" timestamp="1549128943088">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1551700191177">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554010999712">
+      <file name="/Dummy.txt" timestamp="1554018582644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/fizz_buzz.rb" timestamp="1550056535542">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="5" column="6" />
-        <mark key="^" line="5" column="6" />
-        <mark key="." line="5" column="6" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/spec/factories/histories.rb" timestamp="1551787577141">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/pages/demo.vue" timestamp="1553736359536">
         <mark key="'" line="1" column="0" />
@@ -533,66 +129,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/config/routes.rb" timestamp="1550240045599">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/db/migrate/20190217053659_add_admin_to_users.rb" timestamp="1550381876714">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="2" column="67" />
-        <mark key="^" line="2" column="67" />
-        <mark key="." line="2" column="67" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/.babelrc" timestamp="1551268256157">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/railways.cache" timestamp="1551699970585">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/kotlin-practice/training/main.rb" timestamp="1548647245971">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/factories/projects.rb" timestamp="1550989460018">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="^" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/ProfileCarrer.vue" timestamp="1549703353507">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-      </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/pages/index.vue" timestamp="1554008877548">
         <mark key="'" line="69" column="20" />
         <mark key="[" line="13" column="62" />
         <mark key="]" line="13" column="61" />
         <mark key="^" line="13" column="61" />
         <mark key="." line="13" column="61" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/store/index.js" timestamp="1552958148422">
-        <mark key="[" line="19" column="66" />
-        <mark key="]" line="19" column="62" />
-        <mark key="^" line="19" column="62" />
-        <mark key="." line="19" column="62" />
-      </file>
-      <file name="$USER_HOME$/production/shimazaki/public/wp-content/themes/acu-theme-birth/src/style.styl" timestamp="1549369336994">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="11" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" timestamp="1554010618996">
         <mark key="'" line="33" column="0" />
@@ -601,70 +143,10 @@
         <mark key="^" line="37" column="17" />
         <mark key="." line="37" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/typescript/index.ts" timestamp="1553201211136">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
-      </file>
       <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/components/uploadImages.vue" timestamp="1553548689506">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/kotlin-practice/fizzbuzz/src/FizzBuzz.java" timestamp="1548648854011">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/support/login_support.rb" timestamp="1551100435442">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="11" column="28" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/db/migrate/20190217091242_add_user_to_tasks.rb" timestamp="1550395322881">
-        <mark key="[" line="3" column="44" />
-        <mark key="]" line="3" column="31" />
-        <mark key="." line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/pages/access.vue" timestamp="1549890388222">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="4" column="63" />
-        <mark key="^" line="4" column="63" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/.gitignore" timestamp="1551699933056">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/spec/qiita_spec.rb" timestamp="1550476693787">
-        <mark key="[" line="28" column="54" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/spec/factories/tasks.rb" timestamp="1550399978998">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/assets/stylus/mixin.styl" timestamp="1549626016736">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/spec/support/request_spec_helper.rb" timestamp="1550239889262">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/AppSection.vue" timestamp="1554009304147">
         <mark key="'" line="45" column="0" />
@@ -673,30 +155,6 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/store/mutation-types.js" timestamp="1549495652072">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-        <mark key="^" line="2" column="42" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/models/task_spec.rb" timestamp="1551134669047">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="57" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="27" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/README.md" timestamp="1550241508173">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/production/naokihattori/public/wp-content/themes/acu-theme/page-acupuncture.php" timestamp="1548716653682">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="3" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-      </file>
       <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/pages/index.vue" timestamp="1553674176604">
         <mark key="'" line="55" column="16" />
         <mark key="[" line="52" column="18" />
@@ -704,40 +162,10 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/db/migrate/20190217092414_alter_tasks_user_id_not_null.rb" timestamp="1550395507041">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="43" />
-        <mark key="^" line="2" column="43" />
-        <mark key="." line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/dist/index.html" timestamp="1553489005745">
-        <mark key="[" line="0" column="116" />
-        <mark key="]" line="0" column="131" />
-        <mark key="^" line="0" column="131" />
-        <mark key="." line="0" column="131" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/models/item.rb" timestamp="1550220406202">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/spec/deep_freezable_spec.rb" timestamp="1550277508924">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
-      </file>
       <file name="$USER_HOME$/sandbox/electron/first-app/index.js" timestamp="1553482747311">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="45" column="2" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/assets/stylesheets/histories.scss" timestamp="1552133566585">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/electron/image-min/.electron-vue/webpack.renderer.config.js" timestamp="1553636312728">
         <mark key="'" line="17" column="39" />
@@ -746,124 +174,40 @@
         <mark key="^" line="20" column="9" />
         <mark key="." line="21" column="34" />
       </file>
-      <file name="$USER_HOME$/kotlin-practice/kotlin-sandbox/src/ScopeTraining.kt" timestamp="1549922598426">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-        <mark key="^" line="1" column="3" />
+      <file name="$USER_HOME$/image-min-2/index.js" timestamp="1554018318185">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/todos-api/app/lib/json_web_token.rb" timestamp="1550281526321">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/MedicalInfoTable.vue" timestamp="1549286623635">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="7" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="44" column="40" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/functions/lib/mailer.js" timestamp="1549136649707">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/sandbox/typescript/webpack.config.js" timestamp="1551788717495">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="14" column="15" />
-        <mark key="^" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" timestamp="1553463355082">
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" timestamp="1554013132020">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="39" column="10" />
         <mark key="]" line="39" column="3" />
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/misoca/minipro-invoice-price/lib/invoice.rb" timestamp="1550581198553">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/production/yamamoto-eye/src/components/AppH1.vue" timestamp="1553255483640">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/config/locales/ja.yml" timestamp="1550375822525">
+      <file name="/JSRegexp Fragment (index.js:185).regexp" timestamp="1554018105378">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/models/patient.rb" timestamp="1550498136265">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/factories/users.rb" timestamp="1550955834284">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="32" />
-        <mark key="^" line="1" column="32" />
-        <mark key="." line="1" column="32" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/demo.css" timestamp="1553218318172">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/package.json" timestamp="1548854139791">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/Ticket.rb" timestamp="1550150461389">
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vue/my-gridsome-site/pages/index.vue" timestamp="1549374243588">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/views/admin/users/edit.html.slim" timestamp="1550384827495">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogArticleCard.vue" timestamp="1554013164180">
+        <mark key="'" line="3" column="39" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogSidebar.vue" timestamp="1554010636788">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="29" />
         <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/spec/rgb_spec.rb" timestamp="1550099231803">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/factories/notes.rb" timestamp="1551134184555">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/pages/infinite-slide-bar.js" timestamp="1549761408868">
-        <mark key="[" line="3" column="51" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/rails_training/rspec_pracitce/src/fizz_buzz.rb" timestamp="1550016103774">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" timestamp="1554010978620">
         <mark key="'" line="1" column="26" />
@@ -871,71 +215,19 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/typescript/TypeScriptの型入門を読んで.md" timestamp="1552919902017">
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="185" column="11" />
-        <mark key="^" line="185" column="11" />
-        <mark key="." line="185" column="11" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/spec/factories/patients.rb" timestamp="1551786540911">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/kotlin-practice/fizzbuzz/src/main.kt" timestamp="1548648956247">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/.rspec" timestamp="1550876171661">
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/postcss.config.js" timestamp="1553493995365">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="22" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/router/index.js" timestamp="1553546973888">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
-        <mark key="^" line="10" column="42" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/controllers/downloads_controller.rb" timestamp="1550496023318">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/typescript/index.html" timestamp="1551789232717">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/kotlin-practice/kotlin-sandbox/src/myapp.kt" timestamp="1549922687983">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/controllers/tasks_controller_spec.rb" timestamp="1551135196854">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/tsconfig.json" timestamp="1553202556913">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/AppH1.vue" timestamp="1553632348767">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="61" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/webpack.config.js" timestamp="1553493877596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" timestamp="1553749727334">
         <mark key="'" line="14" column="31" />
@@ -951,149 +243,23 @@
         <mark key="^" line="51" column="38" />
         <mark key="." line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/rails_training/rspec_pracitce/spec/fizz_buzz_spec.rb" timestamp="1550016820138">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/router/index.js" timestamp="1553749977454">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/Gemfile" timestamp="1550057655968">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/Gate.rb" timestamp="1550152259611">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="2" column="46" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vue/vuets/src/components/MyButton.vue" timestamp="1551654749211">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/qiita.md" timestamp="1553463640453">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="22" column="2" />
-        <mark key="^" line="22" column="2" />
-        <mark key="." line="22" column="2" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/about.html" timestamp="1551138028002">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1554008452068">
+      <file name="/JavaScript Console" timestamp="1554018840401">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/ProfileImageSlider.vue" timestamp="1552997051098">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="49" />
-        <mark key="^" line="25" column="41" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/config/unicorn/production.rb" timestamp="1551594486577">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/spec/spec_helper.rb" timestamp="1550399710958">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="18" column="38" />
-        <mark key="^" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/features/tasks_spec.rb" timestamp="1551100404197">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/convert_length.rb" timestamp="1550145144393">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="40" />
-      </file>
-      <file name="$USER_HOME$/sandbox/vue/vuets/README.md" timestamp="1551616564589">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogSection.vue" timestamp="1550892656092">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/spec/support/capybara.rb" timestamp="1551012213496">
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-      </file>
-      <file name="$USER_HOME$/sandbox/typescript/src/index.ts" timestamp="1551957139235">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-        <mark key="^" line="14" column="59" />
-      </file>
-      <file name="$USER_HOME$/production/patient-db-conoha/app/assets/stylesheets/global.scss" timestamp="1552177504475">
-        <mark key="[" line="283" column="7" />
-        <mark key="]" line="283" column="19" />
-        <mark key="." line="283" column="19" />
-        <mark key="^" line="283" column="19" />
-      </file>
-      <file name="$USER_HOME$/sandbox/ruby/taskleaf/app/views/tasks/edit.html.slim" timestamp="1550378308362">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="49" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/main.js" timestamp="1553673223535">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="4" column="69" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/hello.txt" timestamp="1551268007590">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/ProfileCareerCard.vue" timestamp="1552258555381">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogDetailsCard.vue" timestamp="1550752919719">
-        <mark key="[" line="27" column="2" />
-        <mark key="]" line="27" column="6" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-eye/src/components/MapSection.vue" timestamp="1549863944405">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/profile.vue" timestamp="1553824131396">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="7" filename="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" />
-      <jump line="29" column="5" filename="$USER_HOME$/production/yamamoto-heroku/components/AppSection.vue" />
-      <jump line="49" column="13" filename="$USER_HOME$/production/yamamoto-eye/src/yarn.lock" />
-      <jump line="13" column="3" filename="$USER_HOME$/production/yamamoto-eye/src/components/AppH1.vue" />
-      <jump line="6" column="26" filename="$USER_HOME$/production/yamamoto-eye/src/.eslintrc.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/production/yamamoto-eye/src/.eslintrc.js" />
       <jump line="72" column="2" filename="$USER_HOME$/production/yamamoto-heroku/pages/medical-info.vue" />
       <jump line="31" column="9" filename="$USER_HOME$/production/yamamoto-heroku/layouts/default.vue" />
       <jump line="18" column="29" filename="$USER_HOME$/sandbox/webpack/demo/package.json" />
@@ -1188,6 +354,12 @@
       <jump line="21" column="0" filename="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" />
       <jump line="33" column="0" filename="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" />
       <jump line="22" column="10" filename="$USER_HOME$/production/yamamoto-heroku/components/MedicalInfoTable.vue" />
+      <jump line="38" column="3" filename="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" />
+      <jump line="6" column="0" filename="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" />
+      <jump line="43" column="0" filename="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" />
+      <jump line="3" column="39" filename="$USER_HOME$/production/yamamoto-heroku/components/BlogArticleCard.vue" />
+      <jump line="5" column="23" filename="$USER_HOME$/image-min-2/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/image-min-2/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1198,60 +370,59 @@
         <text encoding="base64">IGRvX3Nob3J0Y29kZSgnW2NvbnRhY3QtZm9ybS03IGlkPSIyMSIgdGl0bGU9ImRlbW8tY29udGFjdCJdJykgISF9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo8L21haW4+Cjxmb290ZXI+CiAgPGRpdiBjbGFzcz0iY29weXJpZ2h0Ij4KICAgIDxwPsKpIDIwMTgg44Gf44Gk44G/5rK755mC5a6kIEFsbCBSaWdodHMgUmVzZXJ2ZWQ8L3A+CiAgPC9kaXY+CjwvZm9vdGVyPgpAcGhwIGRvX2FjdGlvbignZ2V0X2Zvb3RlcicpIEBlbmRwaHAKQGluY2x1ZGUoJ3BhcnRpYWxzLmZvb3RlcicpCkBwaHAgd3BfZm9vdGVyKCkgQGVuZHBocAo8c2NyaXB0PgogIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgLy8gZ29vZ2xlLW1hcAogIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgZnVuY3Rpb24gaW5pdE1hcCgpIHsKICAgIGxldCBsYXRsbmcgPSBuZXcgZ29vZ2xlLm1hcHMuTGF0TG5nKDM0LjcwMzQzMCwgMTM0LjA0OTMxMSk7Ly/kuK3lv4Pjga7nt6/luqYsIOe1jOW6pgogICAgbGV0IG1hcCA9IG5ldyBnb29nbGUubWFwcy5NYXAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21hcCcpLCB7CiAgICAgIHpvb206IDE2LC8v44K644O844Og44Gu6Kq/5pW0CiAgICAgIGNlbnRlcjogbGF0bG5nLy/kuIrjgafoqK3lrprjgZfjgZ/kuK3lv4MKICAgIH0pOwogICAgbGV0IG1hcmtlciA9IG5ldyBnb29nbGUubWFwcy5NYXJrZXIoewogICAgICBwb3NpdGlvbjogbGF0bG5nLAogICAgICBtYXA6IG1hcAogICAgfSk7CiAgICBsZXQgaW5mb1dpbmRvdyA9IG5ldyBnb29nbGUubWFwcy5JbmZvV2luZG93KHsgLy8g5ZC544GN5Ye644GX44Gu6L+95YqgCiAgICAgIGNvbnRlbnQ6ICc8ZGl2IGNsYXNzPSJtYXAtaW5mby13aW5kb3ciPjxzdHJvbmc+44Gf44Gk44G/5rK755mC5a6kPC9zdHJvbmc+PGJyPjxzbWFsbD4g5bKh5bGx55yM5bKh5bGx5biC5p2x5Yy65Y2X5Y+k6YO977yR77yT77yU4oiS77yR77yY77ySPC9zbWFsbD48L2Rpdj4nIC8vIOWQueOBjeWHuuOBl+OBq+ihqOekuuOBmeOCi+WGheWuuQogICAgfSk7CiAgICBpbmZvV2luZG93Lm9wZW4obWFwLCBtYXJrZXIpOyAvLyDlkLnjgY3lh7rjgZfjga7ooajnpLoKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#fff</text>
+        <text>ma</text>
       </register>
       <register name="/" type="4">
-        <text>#fff</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcmltYXJ5ID0gJGNvbG9yWydwcmltYXJ5J10K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgJHtmaWxlfSAke2ZzLnN0YXRTeW5jKHNyY0ZpbGUpLnNpemV9ID0+ICR7ZnMuc3RhdFN5bmMoZGVzdEZpbGUpLnNpemV9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gc3JjRGly44Gu44OV44Kh44Kk44Or44Gr5a++44GX44Gm6aCG5qyh5a6f6KGMCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmltYXJ5ID0gJGNvbG9yWydwcmltYXJ5J10K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgbG9nID0gZnVuY3Rpb24gKHNyY0ZpbGUsIGRlc3RGaWxlKSB7CiAgY29uc29sZS5sb2coYCR7ZmlsZX0gJHtmcy5zdGF0U3luYyhzcmNGaWxlKS5zaXplfSA9PiAke2ZzLnN0YXRTeW5jKGRlc3RGaWxlKS5zaXplfWApOwp9Cg==</text>
       </register>
       <register name="s" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGgKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yIHJnYmEoIzAwMCwgMC4yKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">JG9wZW5GYWNlID0gI2ZmZiAzcHggMCAwLCAjZmZmIDIuODM0ODdweCAwLjk4MTU0cHggMCwgI2ZmZiAyLjM1NzY2cHggMS44NTUxMXB4IDAsICNmZmYgMS42MjA5MXB4IDIuNTI0NDFweCAwLCAjZmZmIDAuNzA1NzEzcHggMi45MTU4MXB4IDAsICNmZmYgLTAuMjg3MTcxcHggMi45ODYyMnB4IDAsICNmZmYgLTEuMjQ4NDRweCAyLjcyNzg5cHggMCwgI2ZmZiAtMi4wNzIyN3B4IDIuMTY5MjZweCAwLCAjZmZmIC0yLjY2Nzk4cHggMS4zNzE4MnB4IDAsICNmZmYgLTIuOTY5OThweCAwLjQyMzM2cHggMCwgI2ZmZiAtMi45NDUwMnB4IC0wLjU3MTcwNHB4IDAsICNmZmYgLTIuNTk1ODZweCAtMS41MDM4M3B4IDAsICNmZmYgLTEuOTYwOTNweCAtMi4yNzA0MXB4IDAsICNmZmYgLTEuMTEwMTNweCAtMi43ODcwNHB4IDAsICNmZmYgLTAuMTM3MTE5cHggLTIuOTk2ODZweCAwLCAjZmZmIDAuODUwOTg3cHggLTIuODc2NzdweCAwLCAjZmZmIDEuNzQ1NDFweCAtMi40Mzk5OXB4IDAsICNmZmYgMi40NDc2OXB4IC0xLjczNDU5cHggMCwgI2ZmZiAyLjg4MDUxcHggLTAuODM4MjQ3cHggMDsK</text>
+        <text encoding="base64">Y29uc3Qgc3JjRGlyID0gJy4vc3JjLycKY29uc3QgZGVzdERpciA9ICcuL2Rlc3QvJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9wZW5GYWNlKHByaW1hcnkpCiAgICBjb2xvciAjZmZmCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWxlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b3BlbkZhY2UoY29sb3IpCg==</text>
+        <text encoding="base64">Y29uc3QgdGluaWZ5ID0gcmVxdWlyZSgidGluaWZ5Iik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyIDFweCBzb2xpZCBwcmltYXJ5Cg==</text>
+        <text encoding="base64">Y29uc3Qgb3B0aW1pemUgPSBmdW5jdGlvbiAoZmlsZSkgewogIHRpbmlmeS5mcm9tRmlsZShzcmNEaXIgKyBmaWxlKS50b0ZpbGUoZGlzdERpciArIGZpbGUpOwp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#fff</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>#fff</last-pattern>
-      <last-replace>@\/assets\1</last-replace>
-      <last-substitute>@\(\/images\/\)</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry encoding="base64">XDxnZW9cPg==</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
         <entry>css</entry>
@@ -1271,10 +442,9 @@
         <entry encoding="base64">XDwwcHhcPg==</entry>
         <entry>rgb(255, 255, 255)</entry>
         <entry>#fff</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>tabnew</entry>
         <entry>fw</entry>
         <entry>%s/@\/(images\/)/@\/assets\1/gc</entry>
         <entry>%s/@\/\(images\/\)/@\/assets\1/gc</entry>
@@ -1287,11 +457,13 @@
         <entry>vs</entry>
         <entry>q</entry>
         <entry>qw</entry>
-        <entry>noh</entry>
         <entry>action RenameElement</entry>
+        <entry>action RecentFiles</entry>
         <entry>action ReformatCode</entry>
         <entry>action OptimizeImports</entry>
-        <entry>action RecentFiles</entry>
+        <entry>%s/&quot;/'</entry>
+        <entry>%s/&quot;/'/g</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
