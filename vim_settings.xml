@@ -50,6 +50,12 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/HeaderMenu.vue" timestamp="1553828104452">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/sandbox/ruby/sample_app/config/environments/development.rb" timestamp="1550299910882">
         <mark key="[" line="60" column="63" />
         <mark key="]" line="61" column="46" />
@@ -131,6 +137,13 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/tsconfig.json" timestamp="1553478744840">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/production/naokihattori/public/wp-content/themes/acu-theme/functions.php" timestamp="1548533712873">
         <mark key="[" line="744" column="73" />
         <mark key="]" line="744" column="73" />
@@ -172,17 +185,32 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/AppFooter.vue" timestamp="1553719371684">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/AppFooter.vue" timestamp="1553907872804">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/medical-info.vue" timestamp="1553485808268">
+        <mark key="'" line="72" column="2" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="64" column="10" />
+        <mark key="." line="77" column="3" />
+        <mark key="^" line="77" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/ruby/taskleaf/db/migrate/20190217053210_create_users.rb" timestamp="1550381618143">
         <mark key="[" line="7" column="18" />
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/nuxt.config.ts" timestamp="1553931544422">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1553636022945">
         <mark key="[" line="0" column="0" />
@@ -204,9 +232,6 @@
         <mark key="]" line="64" column="0" />
         <mark key="^" line="44" column="6" />
         <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/.electron-vue/webpack.web.config.js" timestamp="1553635378952">
-        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/greeter.ts" timestamp="1553478864131">
         <mark key="'" line="0" column="21" />
@@ -230,6 +255,13 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/demo/src/demo.pug" timestamp="1553479690171">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/Job_site.rb" timestamp="1550462278793">
         <mark key="[" line="25" column="7" />
@@ -320,11 +352,31 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" timestamp="1553462555398">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="25" />
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/style.styl" timestamp="1553493090570">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/layouts/default.vue" timestamp="1553462488827">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/.nuxt/vuetify.js" timestamp="1553931501691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" timestamp="1553933111463">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="31" column="90" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/ruby/everydayrails-rspec-2017/config/application.rb" timestamp="1550954523864">
         <mark key="[" line="18" column="33" />
@@ -337,11 +389,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" timestamp="1552997637714">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" timestamp="1553990838776">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="555" />
+        <mark key="]" line="18" column="555" />
+        <mark key="." line="18" column="555" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/rails_training/untitled2/Gemfile" timestamp="1549972133343">
         <mark key="[" line="8" column="13" />
@@ -361,6 +414,13 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/sandbox/webpack/demo/typeScriptDeep.md" timestamp="1553461475575">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+      </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/TopMainSlider.vue" timestamp="1553374184653">
         <mark key="[" line="10" column="26" />
         <mark key="]" line="10" column="19" />
@@ -372,6 +432,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="21" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/plugins/Firebase.js" timestamp="1553911814727">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/layouts/demo.vue" timestamp="1550463591690">
         <mark key="[" line="2" column="4" />
@@ -427,6 +493,13 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" timestamp="1553464586812">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
       <file name="$USER_HOME$/sandbox/typescript/tsconfig.json" timestamp="1551788622447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="0" />
@@ -469,6 +542,13 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.ts" timestamp="1553492149606">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
       <file name="/Ruby Console" timestamp="1552207905333">
         <mark key="[" line="0" column="0" />
       </file>
@@ -492,6 +572,13 @@
         <mark key="]" line="11" column="33" />
         <mark key="^" line="11" column="33" />
         <mark key="." line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.pug" timestamp="1553489370895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/ruby/rspec_practice/lib/effects.rb" timestamp="1550291395581">
         <mark key="[" line="10" column="0" />
@@ -603,6 +690,13 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" timestamp="1553933092009">
+        <mark key="'" line="3" column="12" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+      </file>
       <file name="$USER_HOME$/sandbox/webpack/demo/src/lib/typescript/index.ts" timestamp="1553201211136">
         <mark key="[" line="12" column="7" />
         <mark key="]" line="12" column="14" />
@@ -668,11 +762,13 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/GallerySlideshow.vue" timestamp="1553719156453">
-        <mark key="[" line="3" column="70" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/GallerySlideshow.vue" timestamp="1553824843361">
+        <mark key="'" line="21" column="4" />
+        <mark key="[" line="22" column="4" />
+      </file>
+      <file name="/HomeMainSlider.vue" timestamp="1553950360595">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="89" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-eye/src/store/mutation-types.js" timestamp="1549495652072">
         <mark key="[" line="2" column="30" />
@@ -813,6 +909,13 @@
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/production/yamamoto-eye/src/components/AppH1.vue" timestamp="1553255483640">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/production/yamamoto-eye/package.json" timestamp="1548854139791">
         <mark key="[" line="13" column="29" />
         <mark key="]" line="13" column="14" />
@@ -836,6 +939,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="^" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogSidebar.vue" timestamp="1553828861499">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/ruby/rspec_practice/spec/rgb_spec.rb" timestamp="1550099231803">
         <mark key="[" line="0" column="0" />
@@ -861,11 +969,12 @@
         <mark key="^" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" timestamp="1552996963724">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" timestamp="1553907848161">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="1" column="47" />
+        <mark key="]" line="1" column="67" />
+        <mark key="^" line="1" column="67" />
+        <mark key="." line="1" column="67" />
       </file>
       <file name="$USER_HOME$/sandbox/typescript/TypeScriptの型入門を読んで.md" timestamp="1552919902017">
         <mark key="[" line="184" column="0" />
@@ -921,6 +1030,13 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/postcss.config.js" timestamp="1553493995365">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/webpack/demo/tsconfig.json" timestamp="1553202556913">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -932,6 +1048,13 @@
         <mark key="]" line="6" column="61" />
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/webpack.config.js" timestamp="1553493877596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" timestamp="1553749727334">
         <mark key="'" line="14" column="31" />
@@ -982,7 +1105,7 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553636464120">
+      <file name="/JavaScript Console" timestamp="1553990974428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/ProfileImageSlider.vue" timestamp="1552997051098">
@@ -1075,11 +1198,11 @@
         <mark key="." line="17" column="43" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/profile.vue" timestamp="1553636743411">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="46" />
-        <mark key="^" line="15" column="46" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/profile.vue" timestamp="1553824131396">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="20" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-eye/src/components/MapSection.vue" timestamp="1549863944405">
         <mark key="[" line="2" column="42" />
@@ -1089,20 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1134" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1145" column="2" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1147" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1149" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1150" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1158" column="2" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1160" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1163" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1164" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1165" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1204" column="2" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1206" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1214" column="2" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
-      <jump line="1216" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
       <jump line="1218" column="6" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
       <jump line="1223" column="2" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
       <jump line="1225" column="42" filename="$USER_HOME$/production/yamamoto-heroku/yarn.lock" />
@@ -1189,6 +1298,20 @@
       <jump line="32" column="30" filename="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" />
       <jump line="14" column="31" filename="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" />
+      <jump line="21" column="4" filename="$USER_HOME$/production/yamamoto-heroku/components/GallerySlideshow.vue" />
+      <jump line="32" column="20" filename="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" />
+      <jump line="7" column="0" filename="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" />
+      <jump line="26" column="7" filename="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" />
+      <jump line="18" column="5" filename="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" />
+      <jump line="1" column="26" filename="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" />
+      <jump line="18" column="13" filename="$USER_HOME$/production/yamamoto-heroku/components/AppFooter.vue" />
+      <jump line="30" column="0" filename="$USER_HOME$/production/yamamoto-heroku/nuxt.config.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/production/yamamoto-heroku/.nuxt/vuetify.js" />
+      <jump line="3" column="12" filename="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" />
+      <jump line="9" column="0" filename="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" />
+      <jump line="8" column="0" filename="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" />
+      <jump line="2" column="0" filename="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" />
+      <jump line="18" column="0" filename="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1199,19 +1322,19 @@
         <text encoding="base64">IGRvX3Nob3J0Y29kZSgnW2NvbnRhY3QtZm9ybS03IGlkPSIyMSIgdGl0bGU9ImRlbW8tY29udGFjdCJdJykgISF9CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo8L21haW4+Cjxmb290ZXI+CiAgPGRpdiBjbGFzcz0iY29weXJpZ2h0Ij4KICAgIDxwPsKpIDIwMTgg44Gf44Gk44G/5rK755mC5a6kIEFsbCBSaWdodHMgUmVzZXJ2ZWQ8L3A+CiAgPC9kaXY+CjwvZm9vdGVyPgpAcGhwIGRvX2FjdGlvbignZ2V0X2Zvb3RlcicpIEBlbmRwaHAKQGluY2x1ZGUoJ3BhcnRpYWxzLmZvb3RlcicpCkBwaHAgd3BfZm9vdGVyKCkgQGVuZHBocAo8c2NyaXB0PgogIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgLy8gZ29vZ2xlLW1hcAogIC8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgZnVuY3Rpb24gaW5pdE1hcCgpIHsKICAgIGxldCBsYXRsbmcgPSBuZXcgZ29vZ2xlLm1hcHMuTGF0TG5nKDM0LjcwMzQzMCwgMTM0LjA0OTMxMSk7Ly/kuK3lv4Pjga7nt6/luqYsIOe1jOW6pgogICAgbGV0IG1hcCA9IG5ldyBnb29nbGUubWFwcy5NYXAoZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ21hcCcpLCB7CiAgICAgIHpvb206IDE2LC8v44K644O844Og44Gu6Kq/5pW0CiAgICAgIGNlbnRlcjogbGF0bG5nLy/kuIrjgafoqK3lrprjgZfjgZ/kuK3lv4MKICAgIH0pOwogICAgbGV0IG1hcmtlciA9IG5ldyBnb29nbGUubWFwcy5NYXJrZXIoewogICAgICBwb3NpdGlvbjogbGF0bG5nLAogICAgICBtYXA6IG1hcAogICAgfSk7CiAgICBsZXQgaW5mb1dpbmRvdyA9IG5ldyBnb29nbGUubWFwcy5JbmZvV2luZG93KHsgLy8g5ZC544GN5Ye644GX44Gu6L+95YqgCiAgICAgIGNvbnRlbnQ6ICc8ZGl2IGNsYXNzPSJtYXAtaW5mby13aW5kb3ciPjxzdHJvbmc+44Gf44Gk44G/5rK755mC5a6kPC9zdHJvbmc+PGJyPjxzbWFsbD4g5bKh5bGx55yM5bKh5bGx5biC5p2x5Yy65Y2X5Y+k6YO977yR77yT77yU4oiS77yR77yY77ySPC9zbWFsbD48L2Rpdj4nIC8vIOWQueOBjeWHuuOBl+OBq+ihqOekuuOBmeOCi+WGheWuuQogICAgfSk7CiAgICBpbmZvV2luZG93Lm9wZW4obWFwLCBtYXJrZXIpOyAvLyDlkLnjgY3lh7rjgZfjga7ooajnpLoKICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>rgb(255, 255, 255)</text>
       </register>
       <register name="/" type="4">
-        <text>this.$refs</text>
+        <text>rgb(255, 255, 255)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHYtdGV4dC1maWVsZAogICAgICAgICAgdi1tb2RlbD0idXJsIgogICAgICAgICAgQGtleXByZXNzLmVudGVyPSJsb2FkVXJsIgogICAgICA+PC92LXRleHQtZmllbGQ+Cg==</text>
+      <register name="0" type="4">
+        <text>2px 2px 1px #fff, -2px 2px 1px #fff, 2px -2px 1px #fff, -2px -2px 1px #fff</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDU3cHg7Cg==</text>
+        <text encoding="base64">ICBwcmltYXJ5ID0gJGNvbG9yWydwcmltYXJ5J10K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1220,31 +1343,31 @@
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtc2hhZG93IDJweCAycHggMXB4ICNmZmYsIC0ycHggMnB4IDFweCAjZmZmLCAycHggLTJweCAxcHggI2ZmZiwgLTJweCAtMnB4IDFweCAjZmZmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8ZGl2PgogICAgPHYtcHJvZ3Jlc3MtbGluZWFyIDppbmRldGVybWluYXRlPSJsb2FkaW5nIiBjbGFzcz0id2Vidmlldy1wcm9ncmVzcy1iYXIiPjwvdi1wcm9ncmVzcy1saW5lYXI+CiAgICA8di10b29sYmFyIGZpeGVkIGNsYXNzPSJ3ZWJ2aWV3LXRvb2xiYXIiIGhlaWdodD0iNTAiPgogICAgICA8di1idG4gQGNsaWNrPSJnb0JhY2siIGljb24+CiAgICAgICAgPHYtaWNvbj5hcnJvd19iYWNrPC92LWljb24+CiAgICAgIDwvdi1idG4+CiAgICAgIDx2LWJ0biBAY2xpY2s9ImdvRm9yd2FyZCIgaWNvbj4KICAgICAgICA8di1pY29uPmFycm93X2ZvcndhcmQ8L3YtaWNvbj4KICAgICAgPC92LWJ0bj4KICAgICAgPHYtYnRuIEBjbGljaz0icmVsb2FkIiBpY29uPgogICAgICAgIDx2LWljb24+cmVmcmVzaDwvdi1pY29uPgogICAgICA8L3YtYnRuPgogICAgICA8di1idG4gQGNsaWNrPSJnb0hvbWUiIGljb24+CiAgICAgICAgPHYtaWNvbj5ob21lPC92LWljb24+CiAgICAgIDwvdi1idG4+CiAgICAgIDx2LXNwYWNlcj48L3Ytc3BhY2VyPgogICAgICA8di10ZXh0LWZpZWxkCiAgICAgICAgICB2LW1vZGVsPSJ1cmwiCiAgICAgICAgICBAa2V5cHJlc3MuZW50ZXI9ImxvYWRVcmwiCiAgICAgID48L3YtdGV4dC1maWVsZD4KICAgIDwvdi10b29sYmFyPgogICAgPHdlYnZpZXcgaWQ9IndlYnZpZXciIDpzcmM9ImluaXRVcmwiIHJlZj0id2VidmlldyI+PC93ZWJ2aWV3PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIFZBcHAsCiAgICBWTmF2aWdhdGlvbkRyYXdlciwKICAgIFZGb290ZXIsCiAgICBWVG9vbGJhciwKICAgIFZGYWRlVHJhbnNpdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHYtYnRuIEBjbGljaz0ibG9hZFVybCIgaWNvbj4KICAgICAgICA8di1pY29uPmxvb3A8L3YtaWNvbj4KICAgICAgPC92LWJ0bj4K</text>
+        <text encoding="base64">ICBhbmFseXplOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIOWIneacn1VSTOOBruioreWumgogICAgdGhpcy51cmwgPSB0aGlzLmluaXRVcmwgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcmltYXJ5ID0gJGNvbG9yWydwcmltYXJ5J10K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnRVcmwgKCkgewogICAgICAKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgaDIge3tpbWFnZS5hbHR9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>this.$refs</last-search>
+      <last-search>rgb(255, 255, 255)</last-search>
       <last-offset />
-      <last-pattern>this.$refs</last-pattern>
+      <last-pattern>rgb(255, 255, 255)</last-pattern>
       <last-replace>@\/assets\1</last-replace>
       <last-substitute>@\(\/images\/\)</last-substitute>
       <last-dir>1</last-dir>
@@ -1252,11 +1375,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tsloader</entry>
-        <entry>@nuxt</entry>
-        <entry>index</entry>
-        <entry>nuxt-ts</entry>
-        <entry encoding="base64">XDxudXh0XD4=</entry>
         <entry>typescript</entry>
         <entry>type</entry>
         <entry encoding="base64">XDxnZW9cPg==</entry>
@@ -1272,6 +1390,11 @@
         <entry>Vue</entry>
         <entry encoding="base64">XDxyZWZzXD4=</entry>
         <entry>this.$refs</entry>
+        <entry encoding="base64">XDxtZWRpY2FsXD4=</entry>
+        <entry encoding="base64">XDxyZWRcPg==</entry>
+        <entry>0px</entry>
+        <entry encoding="base64">XDwwcHhcPg==</entry>
+        <entry>rgb(255, 255, 255)</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
