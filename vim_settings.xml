@@ -3,14 +3,45 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/" timestamp="1553217171261">
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" timestamp="1554010618996">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="17" />
+        <mark key="^" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+      </file>
+      <file name="$USER_HOME$/image-min-2/README.md" timestamp="1554071464191">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/webpack.config.js" timestamp="1553493877596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
+      </file>
+      <file name="/Ruby Console" timestamp="1552207905333">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image-min-2/package.json" timestamp="1554071498423">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="/patient_db_production.patients [patint-db]" timestamp="1551700189401">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" timestamp="1553749727334">
+        <mark key="'" line="14" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="82" column="63" />
+        <mark key="^" line="82" column="63" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/MedicalInfoTable.vue" timestamp="1554121244569">
+        <mark key="'" line="55" column="17" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/tsconfig.json" timestamp="1553478744840">
         <mark key="'" line="0" column="0" />
@@ -18,6 +49,112 @@
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/JSRegexp Fragment (index.js:185).regexp" timestamp="1554018105378">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/router/index.js" timestamp="1553749977454">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/pages/index.vue" timestamp="1553674176604">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+        <mark key="^" line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/style.styl" timestamp="1553493090570">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/components/uploadImages.vue" timestamp="1553548689506">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/layouts/default.vue" timestamp="1553462488827">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.pug" timestamp="1553489370895">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/first-app/index.js" timestamp="1553482747311">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" timestamp="1554010606147">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="31" column="17" />
+        <mark key="^" line="31" column="17" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/image-min/.electron-vue/webpack.renderer.config.js" timestamp="1553636312728">
+        <mark key="'" line="17" column="39" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="41" />
+        <mark key="^" line="20" column="9" />
+        <mark key="." line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogArticleCard.vue" timestamp="1554013164180">
+        <mark key="'" line="3" column="39" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="28" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/image-min-2/index.js" timestamp="1554072258959">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogSidebar.vue" timestamp="1554010636788">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1554019383023">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" timestamp="1554010693837">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="21" column="549" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/pages/index.vue" timestamp="1553750074187">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="41" column="63" />
+        <mark key="]" line="41" column="63" />
+        <mark key="^" line="41" column="63" />
+        <mark key="." line="41" column="63" />
+      </file>
+      <file name="$USER_HOME$/sandbox/webpack/demo/typeScriptDeep.md" timestamp="1553461475575">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="82" column="43" />
+        <mark key="^" line="82" column="43" />
+        <mark key="." line="82" column="43" />
+      </file>
+      <file name="/dummy.sql" timestamp="1551700191177">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/AppFooter.vue" timestamp="1553907872804">
         <mark key="'" line="18" column="13" />
@@ -33,6 +170,19 @@
         <mark key="." line="77" column="3" />
         <mark key="^" line="77" column="3" />
       </file>
+      <file name="/Dummy.txt" timestamp="1554019010629">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" timestamp="1554013132020">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="39" column="10" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/nuxt.config.ts" timestamp="1553931544422">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="27" column="5" />
@@ -43,91 +193,6 @@
       <file name="/GraphQL.result.json" timestamp="1553636022945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/src/demo.pug" timestamp="1553479690171">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/style.styl" timestamp="1553493090570">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="22" />
-        <mark key="^" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/layouts/default.vue" timestamp="1553462488827">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/HomeMainSlider.vue" timestamp="1554010606147">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/assets/stylus/variables.styl" timestamp="1554010693837">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="21" column="549" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/typeScriptDeep.md" timestamp="1553461475575">
-        <mark key="'" line="69" column="6" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="82" column="43" />
-        <mark key="^" line="82" column="43" />
-        <mark key="." line="82" column="43" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" timestamp="1553464586812">
-        <mark key="'" line="55" column="11" />
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.ts" timestamp="1553492149606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-      </file>
-      <file name="/Ruby Console" timestamp="1552207905333">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/patient_db_production.patients [patint-db]" timestamp="1551700189401">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.pug" timestamp="1553489370895">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="29" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/pages/index.vue" timestamp="1553750074187">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="41" column="63" />
-        <mark key="]" line="41" column="63" />
-        <mark key="^" line="41" column="63" />
-        <mark key="." line="41" column="63" />
-      </file>
-      <file name="/dummy.sql" timestamp="1551700191177">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1554019010629">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/pages/demo.vue" timestamp="1553736359536">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="12" column="0" />
@@ -135,30 +200,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="1" column="39" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/index.vue" timestamp="1554008877548">
-        <mark key="'" line="69" column="20" />
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="13" column="61" />
-        <mark key="^" line="13" column="61" />
-        <mark key="." line="13" column="61" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/PageHeader.vue" timestamp="1554010618996">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="17" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="37" column="17" />
-      </file>
-      <file name="$USER_HOME$/image-min-2/README.md" timestamp="1554071464191">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/components/uploadImages.vue" timestamp="1553548689506">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" timestamp="1554010978620">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-heroku/components/AppSection.vue" timestamp="1554009304147">
         <mark key="'" line="45" column="0" />
@@ -167,38 +213,35 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/src/renderer/pages/index.vue" timestamp="1553674176604">
-        <mark key="'" line="55" column="16" />
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="52" column="17" />
-        <mark key="." line="52" column="17" />
-        <mark key="^" line="52" column="17" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/first-app/index.js" timestamp="1553482747311">
+      <file name="$USER_HOME$/sandbox/webpack/demo/src/demo.pug" timestamp="1553479690171">
+        <mark key="'" line="0" column="11" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="45" column="2" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/sandbox/electron/image-min/.electron-vue/webpack.renderer.config.js" timestamp="1553636312728">
-        <mark key="'" line="17" column="39" />
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="20" column="9" />
-        <mark key="." line="21" column="34" />
+      <file name="/" timestamp="1553217171261">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/image-min-2/index.js" timestamp="1554072258959">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/image-min-2/package.json" timestamp="1554071498423">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/blog-archive.vue" timestamp="1554013132020">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="39" column="10" />
-        <mark key="]" line="39" column="3" />
-        <mark key="^" line="39" column="3" />
-        <mark key="." line="39" column="3" />
+      <file name="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" timestamp="1553464586812">
+        <mark key="'" line="55" column="11" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
+        <mark key="^" line="13" column="6" />
+      </file>
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/index.vue" timestamp="1554008877548">
+        <mark key="'" line="69" column="20" />
+        <mark key="[" line="13" column="62" />
+        <mark key="]" line="13" column="61" />
+        <mark key="^" line="13" column="61" />
+        <mark key="." line="13" column="61" />
       </file>
       <file name="$USER_HOME$/production/yamamoto-eye/src/components/AppH1.vue" timestamp="1553255483640">
         <mark key="'" line="12" column="3" />
@@ -207,25 +250,11 @@
         <mark key="." line="8" column="17" />
         <mark key="^" line="8" column="17" />
       </file>
-      <file name="/JSRegexp Fragment (index.js:185).regexp" timestamp="1554018105378">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogArticleCard.vue" timestamp="1554013164180">
-        <mark key="'" line="3" column="39" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/BlogSidebar.vue" timestamp="1554010636788">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/Logo.vue" timestamp="1554010978620">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/production/yamamoto-heroku/pages/profile.vue" timestamp="1553824131396">
+        <mark key="[" line="88" column="16" />
+        <mark key="]" line="88" column="20" />
+        <mark key="." line="88" column="20" />
+        <mark key="^" line="88" column="20" />
       </file>
       <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/postcss.config.js" timestamp="1553493995365">
         <mark key="'" line="0" column="0" />
@@ -234,45 +263,15 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/webpack.config.js" timestamp="1553493877596">
+      <file name="$USER_HOME$/sandbox/webpack/webpack-sandbox/src/index.ts" timestamp="1553492149606">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/components/webview.vue" timestamp="1553749727334">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="82" column="63" />
-        <mark key="^" line="82" column="63" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/components/MedicalInfoTable.vue" timestamp="1554068993810">
-        <mark key="'" line="57" column="9" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="39" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="57" column="44" />
-      </file>
-      <file name="$USER_HOME$/sandbox/electron/webview-demo/src/renderer/router/index.js" timestamp="1553749977454">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1554019383023">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/production/yamamoto-heroku/pages/profile.vue" timestamp="1553824131396">
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="88" column="20" />
-        <mark key="." line="88" column="20" />
-        <mark key="^" line="88" column="20" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="8" filename="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" />
       <jump line="2" column="0" filename="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" />
       <jump line="30" column="46" filename="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" />
       <jump line="14" column="3" filename="$USER_HOME$/sandbox/webpack/demo/webpack.config.js" />
@@ -372,6 +371,7 @@
       <jump line="53" column="9" filename="$USER_HOME$/production/yamamoto-heroku/components/MedicalInfoTable.vue" />
       <jump line="15" column="7" filename="$USER_HOME$/image-min-2/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/image-min-2/index.js" />
+      <jump line="55" column="17" filename="$USER_HOME$/production/yamamoto-heroku/components/MedicalInfoTable.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
